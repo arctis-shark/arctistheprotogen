@@ -1,6 +1,6 @@
 Hi, I’m @karak21
-I’m interested in Python, HTML and discord.py
-I’m currently learning Python.
+I’m interested in C++ and making software.
+I’m currently learning C++.
 How to reach me: karak.10@protonmail.com
 
 <!---
